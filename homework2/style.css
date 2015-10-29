@@ -1,0 +1,14 @@
+.root {
+    -fx-background-image: url("enigma.jpg");
+	 
+	-fx-background-size:cover;
+}
+.button{
+	
+	-fx-font-size:150%;
+
+	-fx-text-fill: #FFFFFF;
+	-fx-background-color: #000000;
+
+	
+}
